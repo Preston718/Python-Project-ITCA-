@@ -13,32 +13,19 @@ student_count = 12
 average_mark = 76.5
 is_beginner_class = True
 
+# Python variables are case sensitive.
+student = "Anele"
+student = "Beverly"
+STUDENT = "Chris"
 
+#Good variable name start with a letter or underscore and contains no space 
+total_score = 0
+_temporary_value = 25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# invalid examples. These stay as comments because they would stop the file
+# 2students = 10
+# total score = 100
+# if = "keyword"
 
 global_message = "I was created outside the global message." 
 
